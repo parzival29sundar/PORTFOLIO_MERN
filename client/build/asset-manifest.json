@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3b3e188.css",
+    "main.js": "/static/js/main.a702d155.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/BEYNO.ttf": "/static/media/BEYNO.6d2c4ed674df6f3b72fd.ttf",
+    "static/media/Anurati-Regular.otf": "/static/media/Anurati-Regular.ada0eaa4927bd5989165.otf",
+    "index.html": "/index.html",
+    "main.f3b3e188.css.map": "/static/css/main.f3b3e188.css.map",
+    "main.a702d155.js.map": "/static/js/main.a702d155.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b3e188.css",
+    "static/js/main.a702d155.js"
+  ]
+}
