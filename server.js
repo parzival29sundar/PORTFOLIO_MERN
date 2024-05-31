@@ -1,10 +1,15 @@
 const express = require("express");
+const cors = require('cors');
 
 const app = express();
 require("dotenv").config();
 require("./config/dbConfig");
 
 const portfolioRoute = require("./routes/portfolioRoute");
+
+app.use(cors({
+    origin: 'https://sundar-utkarsh.onrender.com'
+}));
 
 app.use(express.json());
 
